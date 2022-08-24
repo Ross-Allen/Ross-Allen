@@ -2,7 +2,7 @@
 
 <h3 align="center"><samp> Hi friends 👋</samp></h3>
 
-<h3 align="center"><samp>Welcome to my Github! I'm a technology enthusiast and avid outdoors-men. That's all for now. More content coming soon..</samp></h3>
+<h3 align="center"><samp>Welcome to my Github! I'm a technology enthusiast and avid outdoorsmen. That's all for now. More content coming soon..</samp></h3>
 <br>
 
 <div align="center">

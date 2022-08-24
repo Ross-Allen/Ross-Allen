@@ -1,3 +1,5 @@
+[![header](https://tenor.com/view/coding-gif-25183725)](https://github.com/ross-allen)
+
 ### Hi friends 👋!
 
 Here are some ideas to get you started:
@@ -11,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=rossdallen)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ross-allen&layout=compact&langs_count=10&custom_title=Language%20Breakdown%20🧠&theme=dark&bg_color=30,000000,0f9b0f&border_radius=25&text_color=fff&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ross-allen&hide=contribs,stars&count_private=true&include_all_commits=true&show_icons=true&theme=dark&custom_title=Check%20it%20out%20⚡&bg_color=30,000000,155799&border_radius=25&text_color=fff)

@@ -1,8 +1,9 @@
-<h1 align="center"><samp> Hi friends 👋</samp></h1>
+<h2 align="center"><samp> Hi friends 👋</samp></h2>
 
 <p align="center"><img width="350" src="./assets/avatar.png"></p>
 
-<h3 align="center"><samp>Welcome to my Github! I'm a technology enthusiast and avid outdoors-men.</samp></h4>
+<h3 align="center"><samp>Welcome to my Github! I'm a technology enthusiast and avid outdoors-men. That's all for now. More content coming soon..</samp></h4>
+<br>
 
 <div align="center">
 
